@@ -1,4 +1,4 @@
-# qna_game
+# q&a_game
 
 A new Flutter project.
 
