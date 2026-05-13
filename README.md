@@ -1,5 +1,5 @@
 # q&a_game
-
+![My App](assets/app_view.png)
 A new Flutter project.
 
 ## Getting Started
